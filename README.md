@@ -1,7 +1,26 @@
 ### Hi there 👋
 
+My name is Nick.
+
+### Whoami
+
+.Net Software Engineer (backend)
+
 <!--
-**ndomanovskiy/ndomanovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack 
+ 
+### Pet-projects
+-->
+
+### Contacts
+
+- [Telegram](https://t.me/ndomanovskiy)
+- [Email](mailto:ndomanovskiy@gmail.com)
+
+<!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndomanovskiy&show_icons=true)-->
+
+<!--
+**kantegory/kantegory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
