@@ -83,9 +83,9 @@ My name is Nick.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndomanovskiy&theme=transparent" />
   </a>
  </br>
-  <a href="https://github.com/ndomanovskiy">
+  <!--<a href="https://github.com/ndomanovskiy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndomanovskiy&hide_border=true&theme=transparent" />
-  </a>
+  </a>-->
 </p>
 
 <p>
